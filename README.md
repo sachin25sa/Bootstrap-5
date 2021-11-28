@@ -7,8 +7,9 @@ Quick links:
 
 <h4>Structure of HTML5 for Bootstrap </h4>
   <pre>
-<html>
-	<head>
+  
+<<html>>
+	<<head>>
 	<-------------- META AND STYLE -------------->
 	</head>
 
@@ -23,6 +24,6 @@ Quick links:
 	<script>
 		<--------- JAVASCRIPT --------------->
 	</script>
-</html>
+<</html>>
 </pre>
 
